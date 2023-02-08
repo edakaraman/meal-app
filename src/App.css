@@ -124,7 +124,6 @@ body {
 
 /* Modal */
 .modal_overlay {
-  /* yazdığın kadar alan açar */
   position:fixed;
   top:0;
   left:0;
