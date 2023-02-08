@@ -26,12 +26,11 @@ const Meals = () => {
                return <article key={idMeal} className="single_meal">
                 <img src={image} className="img" onClick={() => selectMeal(idMeal)} />
                 <footer>
-                  <h5> {(title).substring(0,16)} </h5>
+                  <h4> {(title).substring(0,16)} </h4>
                   <button onClick={() => addToFavorites(idMeal)}  className="like_btn"> <FcLike/> </button>
                 </footer>
                </article>
              })}
-        </section>
-    
+        </section>  
 }
 export default Meals

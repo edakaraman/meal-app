@@ -14,9 +14,7 @@ const Modal = () => {
            <p> {text} </p>
            <a href={source} target="_blank"> <BiLinkExternal size={25}/> </a>
            </div>
-
         <button className ="btn_close" onClick={closeModal}>Close</button>
-
       </div>
     </aside>
   );

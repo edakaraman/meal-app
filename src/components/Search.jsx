@@ -26,7 +26,7 @@ const Search = () => {
     return (
         <header className="search_container">
           <form onSubmit={handleSubmit} >
-            <input type="text" onChange = {handleChange} value={text} placeholder="type favorite meal" className="form_input"></input>
+            <input type="text" onChange = {handleChange} value={text} placeholder="search for your favorite food" className="form_input"></input>
             <button type="submit" className='btn_search'>Search</button>
             <button type="button" className ="btn_random" onClick={handleRandomMeal}> Suprise Me! </button>          
           </form>

@@ -5,7 +5,7 @@ const Favorites = () => {
     return (
         <section className="favorites">
           <div className="favorites_content">
-            <h4> <b> Favorites  </b> </h4>
+            <h2> <b> Favorites  </b> </h2>
             <div className="favorites_container">
                 {favorites.map((item) => {
                   const {idMeal ,strMealThumb:image} = item
