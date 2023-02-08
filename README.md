@@ -8,5 +8,9 @@
 <li> Local Storage</li>
 <li> Context API </li>
 <li> CSS </li>
+For color compatibility: https://colorhunt.co
 </ul>
 
+
+
+![Screenshot 2023-02-08 233834](https://user-images.githubusercontent.com/95571155/217647365-3005c3d5-c07b-4f16-81b6-f1c575b655bb.png)
