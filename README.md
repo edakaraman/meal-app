@@ -8,6 +8,7 @@
 <li> Local Storage</li>
 <li> Context API </ li>
 <li> CSS </li>
+
 For color compatibility: https://colorhunt.co
 </ul>
 
