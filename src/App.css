@@ -148,6 +148,7 @@ h4{
 }
 .modal_img {
   height:25rem;
+  min-width: 390px;
   width: 51vw;
   border:10px;
 }
